@@ -12,7 +12,7 @@ Student Management System Using Spring Boot and Mysql & H2 Database (CRUD-Operat
 ## Installation
 - Just, Clone this repository - 
 ````bash 
-git clone https://github.com/SLoharkar/Student-Management-System.git
+https://github.com/divyasripoloju/StudentData.git
 ````
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 
