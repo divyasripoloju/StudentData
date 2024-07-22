@@ -1,0 +1,4 @@
+com\student\controller\StudentController.class
+com\student\Main.class
+com\student\repository\StudentRepository.class
+com\student\model\StudentRegistration.class
