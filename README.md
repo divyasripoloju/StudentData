@@ -17,12 +17,7 @@ git clone https://github.com/SLoharkar/Student-Management-System.git
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 
 
-## Website Trailer
 
-https://github.com/SLoharkar/Student-Management-System/assets/68845746/8b4cff7c-8f9f-4e4b-a248-4e1d68b88557
-
-
-https://github.com/SLoharkar/Student-Management-System/assets/68845746/983feea9-78bc-485f-8824-020683a0a072
 
 
 ## Website Highlights
